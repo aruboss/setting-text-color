@@ -13,7 +13,7 @@ class Result extends Component {
        <div className="col-xs-12 col-sm-12 col-md-12 col-lg-12">
         <p>Color: {this.props.color} - FontSize: {this.props.fontSize}px</p>
         <div id="content" style={this.setStyle()}>
-            Nội dung setting
+              LƯU MINH HIẾU
         </div> 
      </div>
     );
